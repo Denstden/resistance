@@ -74,15 +74,15 @@ local.properties
 .recommenders/
 
 ### NetBeans template
-/node
-/node_modules
-nbproject/private/
+nbproject/
 build/
 nbbuild/
 dist/
 nbdist/
 nbactions.xml
 .nb-gradle/
+build.xml
+manifest.mf
 
 # Web client
 node_modules/
